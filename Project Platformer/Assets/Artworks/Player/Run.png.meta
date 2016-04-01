@@ -1,0 +1,289 @@
+fileFormatVersion: 2
+guid: a1f74e5671af9f8469ac840663a5e7b6
+timeCreated: 1459522529
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Run_0
+    21300002: Run_1
+    21300004: Run_2
+    21300006: Run_3
+    21300008: Run_4
+    21300010: Run_5
+    21300012: Run_6
+    21300014: Run_7
+    21300016: Run_8
+    21300018: Run_9
+    21300020: Run_10
+    21300022: Run_11
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -3
+  maxTextureSize: 8192
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Run_0
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 4
+        width: 35
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: -22}
+        - {x: -5.5, y: -24}
+        - {x: 1.5, y: -24}
+        - {x: 1.5, y: -23}
+        - {x: -1.5, y: -20}
+        - {x: -4.5, y: -20}
+      - - {x: -10.5, y: 24}
+        - {x: -17.5, y: 18}
+        - {x: -17.5, y: -9}
+        - {x: -8.5, y: -20}
+        - {x: -3.5, y: -21}
+        - {x: 11.5, y: -21}
+        - {x: 17.5, y: -7}
+        - {x: 17.5, y: 14}
+        - {x: 13.5, y: 24}
+    - name: Run_1
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 12
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11.5, y: 21}
+        - {x: -19.5, y: 12}
+        - {x: -19.5, y: -14}
+        - {x: -11.5, y: -21}
+        - {x: 6.5, y: -21}
+        - {x: 19.5, y: -11}
+        - {x: 19.5, y: 10}
+        - {x: 15.5, y: 21}
+    - name: Run_2
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 15
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 12, y: 20}
+        - {x: -14, y: 20}
+        - {x: -20, y: 13}
+        - {x: -20, y: -18}
+        - {x: -18, y: -20}
+        - {x: 7, y: -20}
+        - {x: 20, y: -13}
+        - {x: 20, y: 4}
+        - {x: 19, y: 4}
+    - name: Run_3
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 14
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10, y: 20.5}
+        - {x: -19, y: 14.5}
+        - {x: -19, y: -13.5}
+        - {x: -13, y: -20.5}
+        - {x: 15, y: -20.5}
+        - {x: 19, y: -9.5}
+        - {x: 19, y: 12.5}
+        - {x: 13, y: 20.5}
+    - name: Run_4
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 11
+        width: 38
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -9, y: 21.5}
+        - {x: -19, y: 16.5}
+        - {x: -19, y: -11.5}
+        - {x: -7, y: -21.5}
+        - {x: 9, y: -21.5}
+        - {x: 19, y: -11.5}
+        - {x: 19, y: 21.5}
+    - name: Run_5
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 9
+        width: 36
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 21}
+        - {x: -18, y: 14}
+        - {x: -18, y: -11}
+        - {x: -8, y: -21}
+        - {x: 7, y: -21}
+        - {x: 18, y: -12}
+        - {x: 18, y: 21}
+    - name: Run_6
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 9
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 21.5}
+        - {x: -16, y: 19.5}
+        - {x: -16, y: -19.5}
+        - {x: -13, y: -21.5}
+        - {x: 16, y: -21.5}
+        - {x: 16, y: 21.5}
+    - name: Run_7
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 12
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - name: Run_8
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 15
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 20}
+        - {x: -16, y: 13}
+        - {x: -16, y: -20}
+        - {x: 16, y: -20}
+        - {x: 16, y: 20}
+    - name: Run_9
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 14
+        width: 35
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17.5, y: -18.5}
+        - {x: -16.5, y: -20.5}
+        - {x: 17.5, y: -20.5}
+        - {x: 17.5, y: 20.5}
+        - {x: -8.5, y: 20.5}
+        - {x: -17.5, y: 13.5}
+    - name: Run_10
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 11
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 21.5}
+        - {x: -17, y: 18.5}
+        - {x: -17, y: -16.5}
+        - {x: -13, y: -21.5}
+        - {x: 17, y: -21.5}
+        - {x: 17, y: 21.5}
+    - name: Run_11
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 9
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -10.5, y: 21}
+        - {x: -16.5, y: 14}
+        - {x: -16.5, y: -8}
+        - {x: -9.5, y: -21}
+        - {x: -5.5, y: -21}
+        - {x: 1.5, y: -14}
+        - {x: 3.5, y: -19}
+        - {x: 5.5, y: -21}
+        - {x: 14.5, y: -21}
+        - {x: 16.5, y: -19}
+        - {x: 16.5, y: 21}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
